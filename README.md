@@ -1,6 +1,6 @@
 # eadesktop_fixed_installer
 
-The official EA Desktop installer might not for everyone without trouble, so this installer assistant fixes the problems with it.
+The official EA Desktop installer might not work for everyone without trouble, so this installer assistant fixes the problems with it.
 
 After the suscessfully installation you might not be able to start EA Desktop trough the Desktop or Start menu link.
 So you have to go in the instalation directory of EA Desktop, 
