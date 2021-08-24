@@ -179,10 +179,11 @@ namespace EA_Deskop_fixed_Installer__unofficial_
                     tools.CreateShortcut("EA Desktop", @"C:\Users\" + Environment.UserName + @"\Desktop", installDir + @"\EADesktop.exe");
                     Console.WriteLine("Shortcut created");
                 }
-                else
-                {
-                    return;
-                }
+
+                Console.WriteLine();
+                Console.WriteLine("EA Desktop setuped successfully");
+                Console.ReadLine();
+                Environment.Exit(0);
             }
 
 
