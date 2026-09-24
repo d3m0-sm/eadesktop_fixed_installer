@@ -1,6 +1,6 @@
 # eadesktop_fixed_installer
 
-##INFORMATION: This project is no longer necessary for installing EA Desktop, as it was only needed in an early version
+## INFORMATION: This project is no longer necessary for installing EA Desktop, as it was only needed in an early version
 
 The official EA Desktop installer might not work for everyone without trouble, so this installer assistant fixes the problems with it.
 
